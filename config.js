@@ -11,7 +11,7 @@ import moment from "moment-timezone"
 
 global.owner = [
   ['5218132588591', 'おDanịel.xyz⁩', true],
-  ['5218139760662'],
+  ['51902050745', 'nose', true],
   ['5218261009198'],
   ['5218261275256'],
   ['50662333781']
